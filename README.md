@@ -4,7 +4,7 @@
 
 # 💻Roteiro de Estudos
 ## 🖥️Básico
-| Exercício | Tema  | Descrição |
+| Exercício | Tema  | Descrição ||
 | :---------------- | :--------- | :--------- |
 | `01` | `` | `` |
 | `02` | `` | `` |
