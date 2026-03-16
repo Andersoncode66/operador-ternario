@@ -1,4 +1,4 @@
-# exercicios operador-ternarios
+# exercicios operador-ternarioS
 
 # java-for-exercicios
 
